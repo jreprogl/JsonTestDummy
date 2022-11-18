@@ -1,0 +1,12 @@
+{
+  "nodes":  [
+    {"name":"abcd-efgh-1234-5678", "d_hub":"test_hub", "man_fac":"test_fac"},
+    {"name":"qwerty", "d_hub":"qwerty_hub", "man_fac":"qwerty_fac"},
+    {"name":"asdf", "d_hub":"asdf_hub", "man_fac":"asdf_fac"}
+  ],
+
+  "links":  [
+    {"source":0, "target":1},
+    {"source":0, "target":2}
+  ]
+}
